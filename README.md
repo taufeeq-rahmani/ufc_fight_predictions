@@ -1,8 +1,7 @@
 # UFC Fight Predictions
 
 ## Column definitions:
-
-    R_ and B_ prefix signifies red and blue corner fighter stats respectively
+    * R_ and B_ prefix signifies red and blue corner fighter stats respectively
     KD is number of knockdowns
     SIG_STR is no. of significant strikes 'landed of attempted'
     SIG_STR_pct is significant strikes percentage
